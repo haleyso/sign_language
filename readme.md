@@ -4,4 +4,4 @@ Tools used:
 Google Colab, tensorflow, keras, seaborn, scipy, pandas, sklearn
 
 Dataset:
-MNIST Sign Language
+MNIST Sign Language, self-taken images
